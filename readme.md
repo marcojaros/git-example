@@ -8,5 +8,3 @@ dies ist das erste beipiel für die versionierung
 4
 5
 
-Hallo
-
